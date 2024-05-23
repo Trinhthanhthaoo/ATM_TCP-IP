@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><SinhViens>
+    <sinhvien>
+        <id>1 </id>
+        <id>11 </id>
+        <ten>thanhthao </ten>
+        <lop> it2 </lop>
+        <diem> 10  </diem>
+    </sinhvien>
+    <sinhvien>
+        <id>22 </id>
+        <lop> it3 </lop>
+        <diem> 9  </diem>
+    </sinhvien>
+    <sinhvien>
+        <id>33</id>
+        <name>Hoa</name>
+        <class>44</class>
+        <score>10.0</score>
+    </sinhvien>
+    <sinhvien>
+        <id>55</id>
+        <name>Linh</name>
+        <class>ite</class>
+        <score>8.0</score>
+    </sinhvien>
+    <sinhvien>
+        <id>66</id>
+        <name>nhi</name>
+        <class>ai</class>
+        <score>3.0</score>
+    </sinhvien>
+    <sinhvien>
+        <id>12</id>
+        <name>van</name>
+        <class>ai</class>
+        <score>5.5</score>
+    </sinhvien>
+    <sinhvien>
+        <id>23</id>
+        <name>hi</name>
+        <class>it1</class>
+        <score>4.0</score>
+    </sinhvien>
+   
+
+</SinhViens>
